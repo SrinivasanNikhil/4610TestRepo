@@ -15,7 +15,7 @@ Four-For-Four Dining is counting on CSCSN Data Co. to develop a comprehensive da
 
 ## Data Model
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://raw.githubusercontent.com/SrinivasanNikhil/4610TestRepo/main/demo%20dm.png?text=App+Screenshot+Here)
 
 ### Data model description
 
